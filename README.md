@@ -9,6 +9,7 @@ S.No. | Content/Topic | Additional Comment
 --- | --- | ---
 
 ## References
+- https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/connection-prereqs.html
 
 ## Author(s)
 
